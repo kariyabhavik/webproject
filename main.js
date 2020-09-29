@@ -1,3 +1,2 @@
 function click(){
-    var str = "hello";
-}
+    var str = "hello bhavik";
