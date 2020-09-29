@@ -1,3 +1,3 @@
 function click(){
-    "hello"
+    var str = "hello";
 }
