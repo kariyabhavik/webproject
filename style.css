@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
- /* ********************************** nevagation bar start  ************************************* */
+
 #main{
     width: 100%;
     height: 100vh;
@@ -57,7 +57,7 @@ ul li a span:nth-child(1),
 ul li a span:nth-child(3){
     width: 100%;
     height: 1px;
-    background: rgb(0, 225, 255)y;
+    background: #fff;
 }
 
 ul li a span:nth-child(1){
@@ -91,7 +91,7 @@ ul li a span:nth-child(2),
 ul li a span:nth-child(4){
     width:1px ;
     height:100%;
-    background: rgb(0, 225, 255);
+    background: #fff;
 }
 
 ul li a span:nth-child(2){
@@ -119,5 +119,3 @@ ul li a:hover span:nth-child(4){
     transform-origin: top;
     transition: transform .5s;
 } 
-
-/*  ********************************** nevagation bar end  ************************************* */
