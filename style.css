@@ -132,7 +132,7 @@ ul li a:hover span:nth-child(4){
 
 /* <!-- ********************************** image slider bar start  *************************************--> */
 .slider{
-    height: 100vh;
+  height: 100vh;
 	border:10px solid  #29a8e2;
 	margin:0px auto;
 	position: relative;
