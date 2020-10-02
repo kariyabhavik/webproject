@@ -133,7 +133,7 @@ ul li a:hover span:nth-child(4){
 /* <!-- ********************************** image slider bar start  *************************************--> */
 .slider{
   height: 100vh;
-	border:10px solid  #29a8e2;
+	/* border:10px solid  #29a8e2; */
 	margin:0px auto;
 	position: relative;
 	overflow: hidden;
@@ -204,7 +204,7 @@ font-size: 30px;
 /* <!-- ***************************** team section start ****************************** --> */
 
 .wrapper{
-    background: #81c644;
+    background: #ff9100;
     font-family: 'Josefin Sans', sans-serif;
   }
   
@@ -235,7 +235,7 @@ font-size: 30px;
   }
   
   .team .team_member h3{
-    color: #81c644;
+    color: #00b7ff;
     font-size: 26px;
     margin-top: 50px;
   }
