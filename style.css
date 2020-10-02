@@ -127,6 +127,7 @@ ul li a:hover span:nth-child(4){
 	font-family: sans-serif;
 } */
 
+/* <!-- ********************************** image slider bar start  *************************************--> */
 .slider{
     height: 96vh;
 	border:10px solid  #29a8e2;
@@ -195,10 +196,7 @@ font-size: 30px;
 	display: block;
 }
 
-h1{
-    color: red;
-    font-family: cursive;
-}
+/* <!-- ********************************** image slider bar end  *************************************--> */
 
 
 
