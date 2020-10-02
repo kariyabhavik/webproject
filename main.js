@@ -37,17 +37,17 @@ function next(direction){
 
 }
 
-//for image carosale end
+//for image carosale end 
 
 // for slider purpose
 
-// var images = ['images/carosal1.jpeg', 'images/carosal2.jpeg', 'images/carosal3.jpeg', 'images/carosal4.jpeg', 'images/carosal5.jpeg'];
+// var images = ['../images/carosal1.jpeg', '../images/carosal2.jpeg', '../images/carosal3.jpeg', '../images/carosal4.jpeg', '../images/carosal5.jpeg'];
 
 // var x = 0;
 
 // var imgs = document.getElementById('img');
 
-// setInterval(slider, 5000);
+// setInterval(slider, 3000);
 
 
 // function slider() {
