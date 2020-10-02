@@ -1,4 +1,5 @@
 
+//for image carosale start
  var slides=document.querySelector('.slider-items').children;
  var nextSlide=document.querySelector(".right-slide");
 var prevSlide=document.querySelector(".left-slide");
@@ -36,6 +37,30 @@ function next(direction){
 
 }
 
+//for image carosale end
+
+// for slider purpose
+
+// var images = ['images/carosal1.jpeg', 'images/carosal2.jpeg', 'images/carosal3.jpeg', 'images/carosal4.jpeg', 'images/carosal5.jpeg'];
+
+// var x = 0;
+
+// var imgs = document.getElementById('img');
+
+// setInterval(slider, 5000);
+
+
+// function slider() {
+
+//   if (x < images.length) {
+//     x = x + 1;
+//   } else {
+//     x = 1;
+//   }
+
+//   imgs.innerHTML = "<img src=" + images[x - 1] + ">";
+// }
+// for slider purpose
 
 
 
