@@ -49,7 +49,7 @@ ul li{
    font-size: 20px;
    text-align: center;
    text-decoration: none;
-   color: rgb(7, 181, 250);
+   color: #48F7FD;
    margin: 0 0 12 0px;
    transition: .5s;
 
@@ -125,10 +125,6 @@ ul li a:hover span:nth-child(4){
 } 
 
 /* <!-- ********************************** nevagation bar end  *************************************--> */
-/* body{
-	background-color: #444444;
-	font-family: sans-serif;
-} */
 
 /* <!-- ********************************** image slider bar start  *************************************--> */
 .slider{

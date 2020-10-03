@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+   
+  }
+  .a1{
+    height:120px;
+    width: 100%;
+    background: #2460A7FF;
+   
+   }
+
+  .a2{
+      height:120px;
+      width: 100%;
+      background: #85B3D1FF;
+  }
+
+ .a3{
+    height:120px;
+    width: 100%;    
+    background:#B3C7D6FF;
+}
+
+.a4 {
+    height:120px;
+    width: 100%;    
+    background:#D9B48FFF;
+}
