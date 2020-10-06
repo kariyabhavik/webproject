@@ -199,7 +199,7 @@ ul li a:hover span:nth-child(4){
 
 /* ****** information about languages and link to direct go to that perticular language start ****** --> */
 
-.container{
+.grp_box{
     width: 100%;
     height: auto;
     background: aqua;
@@ -209,7 +209,7 @@ ul li a:hover span:nth-child(4){
 
 }
 
-.box{
+.section_box{
     width: 38%;
     height: 171px;
     background: yellow;
