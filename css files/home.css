@@ -30,7 +30,6 @@ nav{
 ul li ul li{
     display: none;
     background-color:#0005;
-    box-shadow: rbga(0,0,0,0.2) 0 2px 6px 0;
     height: 60px;
     transition: 1s all;
 }
@@ -40,9 +39,8 @@ ul li:hover ul li{
 }
 
 .nav_item{
-    padding: 0;
-    margin: 21px;
-    /* position: absolute;   */
+    margin-right: 44px;
+    margin-top: 15px;
     float: right;
     display: flex;
 }
@@ -58,7 +56,7 @@ ul li{
  ul li a{
    display: block;
    position: relative;
-   width: 111px;
+   width: 200px;
    height: 44px;
    line-height: 42px;
    font-size: 20px;
@@ -84,7 +82,7 @@ ul li a span:nth-child(3){
 
 ul li a span:nth-child(1){
     top: 0;
-    left: 0;
+    right: 0;
     transform-origin: right;
 }
 
@@ -196,5 +194,29 @@ ul li a:hover span:nth-child(4){
 	display: block;
 }
 
-/* <!-- ********************************** image slider bar end  *************************************--> */
+/* <!-- ********************************** image slider bar end  ***********************************--> */
 
+
+/* ****** information about languages and link to direct go to that perticular language start ****** --> */
+
+.container{
+    width: 100%;
+    height: auto;
+    background: aqua;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.box{
+    width: 38%;
+    height: 171px;
+    background: yellow;
+    margin: 50px;
+    box-sizing: border-box;
+    font-size: 50px;
+
+
+}
+/* ****** information about languages and link to direct go to that perticular language start ****** --> */
