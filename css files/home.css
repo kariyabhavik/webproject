@@ -20,18 +20,20 @@ nav{
     background-color:#0005;
     line-height: 80px;
     position: fixed;
-    /* opacity:0.5; */
-    z-index: 1;
-    
+    z-index: 1; 
 }
 
-/* code check for deopdown menu */
+/* code check for deopdown menu start*/
 
 ul li ul li{
     display: none;
     background-color:#0005;
     height: 60px;
     transition: 1s all;
+}
+
+ul li ul li:hover a{
+  background-color: #0009;
 }
 
 ul li:hover ul li{
@@ -45,7 +47,7 @@ ul li:hover ul li{
     display: flex;
 }
 
-/* code check for deopdown menu */
+/* code check for deopdown menu end */
 
 
 ul li{
@@ -57,7 +59,7 @@ ul li{
    display: block;
    position: relative;
    width: 200px;
-   height: 44px;
+   height: 65px;
    line-height: 42px;
    font-size: 20px;
    text-align: center;
@@ -68,7 +70,12 @@ ul li{
 
 }
 
-ul li a span{
+ul li a:hover{
+    background-color: #0009;
+
+}
+
+/* ul li a span{
     position: absolute;
     transition: transform .5s;
 }
@@ -135,7 +142,7 @@ ul li a:hover span:nth-child(4){
     transform: scale(1);   
     transform-origin: top;
     transition: transform .5s;
-} 
+}  */
 
 /* <!-- ********************************** nevagation bar end  *************************************--> */
 
